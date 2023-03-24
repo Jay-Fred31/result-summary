@@ -8,6 +8,8 @@ Thanks for checking out this front-end coding challenge.
 
 I had fun working on this project, it helped me to practice using fetch API to get data and use it in my project. 
 
+https://summary-result.netlify.app -- Link to the hosted projected
+
 This done, moving on to the next one.
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
